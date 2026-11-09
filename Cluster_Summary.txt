@@ -1,0 +1,45 @@
+============================================================
+MALL CUSTOMERS CLUSTERING ANALYSIS - SUMMARY
+============================================================
+
+Optimal Number of Clusters: 5
+Total Customers: 200
+Features Used: Annual Income (k$), Spending Score (1-100)
+
+CLUSTER PROFILES:
+------------------------------------------------------------
+
+Cluster 0:
+  Size: 81 customers (40.5%)
+  Average Age: 42.7 years
+  Average Annual Income: $55.3k
+  Average Spending Score: 49.5/100
+  Gender Distribution: {'Female': 48, 'Male': 33}
+
+Cluster 1:
+  Size: 39 customers (19.5%)
+  Average Age: 32.7 years
+  Average Annual Income: $86.5k
+  Average Spending Score: 82.1/100
+  Gender Distribution: {'Female': 21, 'Male': 18}
+
+Cluster 2:
+  Size: 22 customers (11.0%)
+  Average Age: 25.3 years
+  Average Annual Income: $25.7k
+  Average Spending Score: 79.4/100
+  Gender Distribution: {'Female': 13, 'Male': 9}
+
+Cluster 3:
+  Size: 35 customers (17.5%)
+  Average Age: 41.1 years
+  Average Annual Income: $88.2k
+  Average Spending Score: 17.1/100
+  Gender Distribution: {'Male': 19, 'Female': 16}
+
+Cluster 4:
+  Size: 23 customers (11.5%)
+  Average Age: 45.2 years
+  Average Annual Income: $26.3k
+  Average Spending Score: 20.9/100
+  Gender Distribution: {'Female': 14, 'Male': 9}
